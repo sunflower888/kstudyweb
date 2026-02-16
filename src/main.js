@@ -1,7 +1,23 @@
-import wordData1 from "../file/words_basic.json" assert { type: "json" };
-import wordData2 from "../file/owords_1.json" assert { type: "json" };
-import wordData3 from "../file/owords_2.json" assert { type: "json" };
+// import wordData1 from "../file/words_basic.json" assert { type: "json" };
+// import wordData2 from "../file/owords_1.json" assert { type: "json" };
+// import wordData3 from "../file/owords_2.json" assert { type: "json" };
+// import { createMain, updateMain, navArr, navContent } from "./pageud.js";
+
 import { createMain, updateMain, navArr, navContent } from "./pageud.js";
+
+// ------------------ JSON 로드 ------------------
+async function loadJSON(path) {
+  const res = await fetch(path);
+  if (!res.ok) {
+    throw new Error(`JSON 로드 실패: ${path}`);
+  }
+  return await res.json();
+}
+
+// top-level await (module이므로 가능)
+const wordData1 = await loadJSON("../file/words_basic.json");
+const wordData2 = await loadJSON("../file/owords_1.json");
+const wordData3 = await loadJSON("../file/owords_2.json");
 
 let navNum = 0;
 let showKo = true;
@@ -125,4 +141,5 @@ goBtn.addEventListener("click", () => {
 
 // ------------------ 초기 렌더 ------------------
 render();
+
 
