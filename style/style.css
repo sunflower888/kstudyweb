@@ -1,0 +1,203 @@
+/* -- 빼면 안됨 */
+:root {
+  --textColor: #333333;
+  --background: white;
+  --en-font: blue;
+  --en-cover: rgb(231, 231, 231);
+  --border: green;
+  --nav-font: black;
+  --nav-color: rgb(181, 222, 198);
+  --count-font: #333333;
+  --check-color: rgb(119, 154, 235);
+}
+
+:root.dark {
+  --textColor: rgb(213, 213, 213);
+  --background: #000000;
+  --en-font: rgb(195, 195, 233);
+  --en-cover: rgb(34, 34, 34);
+  --border: rgb(78, 93, 78);
+  --nav-font: rgb(101, 101, 101);
+  --nav-color: rgb(55, 55, 55);
+  --count-font: rgb(101, 101, 101);
+  --check-color: rgb(61, 65, 83);
+}
+
+body {
+  margin: 40px 20px;
+  background-color: var(--background);
+}
+
+div {
+  font-size: 10px;
+  padding: 2px;
+  margin: 0px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 6fr 8fr;
+  margin: 3px 0px;
+  align-items: center;
+}
+
+.no {
+  color: var(--textColor);
+  font-weight: 500;
+  text-align: center;
+}
+
+.en {
+  background-color: var(--en-cover);
+  color: var(--en-font);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 13px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.ko {
+  white-space: pre-line; /* \n 줄바꿈 표시 */
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--textColor);
+  padding: 4px;
+  background-color: var(--background);
+  border: 1px solid var(--border);
+}
+
+.nav-prevBtn,
+.nav-nextBtn,
+.nav-current {
+  background-color: var(--nav-color);
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  color: var(--nav-font);
+  font-size: 30px;
+  text-align: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.darkMode {
+  appearance: none;
+
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  border: 2px solid var(--nav-font);
+  border-radius: 5px;
+
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.darkMode:checked {
+  background-color: var(--nav-font);
+}
+
+.check {
+  appearance: none;
+
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  right: 40px;
+  bottom: 70px;
+  background-color: var(--check-color);
+  border-radius: 5px;
+  border: solid 2px var(--check-color);
+
+  cursor: pointer;
+}
+/* .check:checked {
+  background-color: var(--check-color);
+} */
+
+.nav-nextBtn {
+  right: 40px;
+  bottom: 150px;
+}
+
+.nav-prevBtn {
+  right: 40px;
+  bottom: 210px;
+}
+
+.nav-current {
+  right: 130px;
+  bottom: 70px;
+
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--count-font);
+  background-color: var(--background);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--count-font);
+}
+
+/* 검색 */
+
+.dataInput,
+.navInput {
+  position: absolute;
+
+  width: 100px;
+  height: 30px;
+  color: var(--nav-font);
+  font-size: 10px;
+
+  background-color: var(--background);
+  border: 2px solid var(--nav-color);
+  border-radius: 5px;
+}
+
+.dataInput::placeholder,
+.navInput::placeholder {
+  color: var(--nav-color);
+}
+
+.loadBtn,
+.goBtn {
+  position: absolute;
+  left: 130px;
+
+  width: 40px;
+  height: 35px;
+  color: var(--nav-font);
+  font-size: 10px;
+
+  background-color: var(--nav-color);
+  border: 2px solid var(--nav-color);
+  border-radius: 5px;
+
+  cursor: pointer;
+}
+
+.dataInput {
+  bottom: 70px;
+}
+
+.loadBtn {
+  bottom: 70px;
+}
+
+.navInput {
+  bottom: 120px;
+}
+
+.goBtn {
+  bottom: 120px;
+}
+
+.hide-text {
+  color: transparent;
+}
