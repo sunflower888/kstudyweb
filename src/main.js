@@ -6,9 +6,9 @@ let navNum = 0;
 let showKo = true;
 
 const dataMap = {
-  1: "../file/words_basic.json",
-  2: "../file/owords_1.json",
-  3: "../file/owords_2.json",
+  1: "./file/words_basic.json",
+  2: "./file/owords_1.json",
+  3: "./file/owords_2.json",
 };
 
 // 데이터 캐싱 ---------------------------------------------------------
@@ -136,3 +136,4 @@ goBtn.addEventListener("click", () => {
   currentData = await getData(1); // 기본 데이터
   render();
 })();
+
