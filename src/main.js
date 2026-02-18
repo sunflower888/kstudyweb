@@ -3,7 +3,7 @@ import { createMain, updateMain, navArr, navContent } from "./sub.js";
 const dataCache = {};
 let currentData = [];
 let navNum = 0;
-let showKo = true;
+let showKo = false;
 
 const dataMap = {
   1: "./file/words_basic.json",
@@ -36,7 +36,7 @@ document.body.appendChild(main);
 const check = document.createElement("input");
 check.className = "check";
 check.type = "checkbox";
-check.checked = true;
+check.checked = false;
 document.body.appendChild(check);
 
 check.addEventListener("change", () => {
@@ -136,4 +136,5 @@ goBtn.addEventListener("click", () => {
   currentData = await getData(1); // 기본 데이터
   render();
 })();
+
 
