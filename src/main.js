@@ -1,23 +1,35 @@
-import wordData1 from "../file/words_basic.json" assert { type: "json" };
-import wordData2 from "../file/owords_1.json" assert { type: "json" };
-import wordData3 from "../file/owords_2.json" assert { type: "json" };
-import { createMain, updateMain, navArr, navContent } from "./pageUD.js";
+import { createMain, updateMain, navArr, navContent } from "./sub.js";
 
+const dataCache = {};
+let currentData = [];
 let navNum = 0;
 let showKo = true;
 
-// ------------------ allData 객체 ------------------
-const allData = {
-  1: wordData1,
-  2: wordData2,
-  3: wordData3,
+const dataMap = {
+  1: "../file/words_basic.json",
+  2: "../file/owords_1.json",
+  3: "../file/owords_2.json",
 };
 
-// 현재 사용하는 데이터
-let currentData = wordData1; // 기본값
+// 데이터 캐싱 ---------------------------------------------------------
+async function getData(key) {
+  if (dataCache[key]) {
+    return dataCache[key];
+  }
 
-// 한 번만 생성
-const { container: main, rows } = createMain(); // 구조분해할당
+  const path = dataMap[key];
+  if (!path) return null;
+
+  const res = await fetch(path);
+  if (!res.ok) throw new Error("JSON 로드 실패");
+
+  const data = await res.json();
+  dataCache[key] = data; // 캐싱: 가져온 거 또 쓰려고 잠깐 저장해 둠
+  return data;
+}
+
+// DOM 구조(한 번만 생성함) ----------------------------------------
+const { container: main, rows } = createMain();
 document.body.appendChild(main);
 
 // 체크박스 -------------------------------------------------------
@@ -27,13 +39,12 @@ check.type = "checkbox";
 check.checked = true;
 document.body.appendChild(check);
 
-// 체크박스 이벤트
 check.addEventListener("change", () => {
   showKo = check.checked;
   render();
 });
 
-// 다크모드 체크박스 -----------------------------------------------
+// 다크모드(체크박스) -----------------------------------------------
 const darkMode = document.createElement("input");
 darkMode.type = "checkbox";
 darkMode.className = "darkMode";
@@ -41,12 +52,7 @@ document.body.appendChild(darkMode);
 
 darkMode.addEventListener("change", () => {
   document.documentElement.classList.toggle("dark");
-
-  if (darkMode.checked) {
-    localStorage.setItem("theme", "dark");
-  } else {
-    localStorage.setItem("theme", "light");
-  }
+  localStorage.setItem("theme", darkMode.checked ? "dark" : "light");
 });
 
 // 저장된 테마 적용
@@ -55,7 +61,7 @@ if (localStorage.getItem("theme") === "dark") {
   darkMode.checked = true;
 }
 
-// ------------------ JSON 선택 input ------------------
+// 종류 ------------------------------------------------------------------
 const dataInput = document.createElement("input");
 dataInput.type = "text";
 dataInput.placeholder = "종류";
@@ -67,28 +73,30 @@ loadBtn.textContent = "확인";
 loadBtn.className = "loadBtn";
 document.body.appendChild(loadBtn);
 
-loadBtn.addEventListener("click", () => {
-  const key = dataInput.value.trim(); // trim: 공백제거
-  if (allData[key]) {
-    currentData = allData[key];
-    navNum = 0; // 페이지 초기화
-    render();
-  } else {
-    alert("잘못된 번호입니다. 1, 2, 3 중 하나를 입력하세요.");
+loadBtn.addEventListener("click", async () => {
+  const key = dataInput.value.trim();
+  const data = await getData(key);
+
+  if (!data) {
+    alert("잘못된 번호입니다. 1, 2 중 하나를 입력하세요.");
+    return;
   }
+
+  currentData = data;
+  navNum = 0;
+  counter.setPage(0); // 네비게이션 숫자도 0으로 초기화
+  render();
 });
 
-// 페이지 데이터 계산 (10개만)
+// 메인 데이터 --------------------------------------------------------------------------------------------------------
 function mainData(num) {
   const nums = navArr(num);
   return currentData.filter((item) => nums.includes(Number(item.no)));
 }
 
-// 렌더 (DOM 재생성 (X), 내용만 변경)
+// 렌더 --------------------------------------------------
 function render() {
   const data = mainData(navNum);
-
-  // updateMain(main, data, showKo);
   updateMain(rows, data, showKo);
 }
 
@@ -116,12 +124,15 @@ goBtn.addEventListener("click", () => {
   const pageNum = Number(navInput.value.trim());
   if (!isNaN(pageNum)) {
     navNum = pageNum;
-    counter.setPage(pageNum); // 여기서 navContent 내부 상태와 동기화
+    counter.setPage(pageNum);
     render();
   } else {
     alert("올바른 숫자를 입력하세요.");
   }
 });
 
-// ------------------ 초기 렌더 ------------------
-render();
+// ================== ⭐ 초기 데이터 1번만 로드 ==================
+(async function init() {
+  currentData = await getData(1); // 기본 데이터
+  render();
+})();
