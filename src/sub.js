@@ -1,4 +1,13 @@
-// 한 번만 생성
+// 필요한 데이터의 'no'값 배열 ------------------------------------------
+export function navArr(num) {
+  const start = num * 10 + 1;
+  const end = start + 9;
+  const arr = [];
+  for (let i = start; i <= end; i++) arr.push(i);
+  return arr;
+}
+
+// DOM 구조(한 번만 생성함) ----------------------------------------
 export function createMain() {
   const container = document.createElement("div");
   container.className = "main-container";
@@ -23,7 +32,7 @@ export function createMain() {
   return { container, rows };
 }
 
-// ⬅️ DOM 재생성 ❌, 내용만 변경
+// 바뀐 데이터에 따라 텍스트 값만 변경함 [DOM 재생성 (X)]
 export function updateMain(rows, data, showKo) {
   rows.forEach((row, i) => {
     const item = data[i];
@@ -39,15 +48,6 @@ export function updateMain(rows, data, showKo) {
     row.ko.textContent = item.ko;
     row.ko.classList.toggle("hide-text", !showKo);
   });
-}
-
-// navArr (0, 1~10)
-export function navArr(num) {
-  const start = num * 10 + 1;
-  const end = start + 9;
-  const arr = [];
-  for (let i = start; i <= end; i++) arr.push(i);
-  return arr;
 }
 
 // 네비게이션
