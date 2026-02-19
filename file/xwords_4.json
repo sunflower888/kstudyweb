@@ -1,0 +1,3287 @@
+[
+  {
+    "no": "1",
+    "en": "(every) now and then",
+    "ko": "때때로, 가끔"
+  },
+  {
+    "no": "2",
+    "en": "(put) in a nutshell",
+    "ko": "간단히 말해서"
+  },
+  {
+    "no": "3",
+    "en": "a drop in",
+    "ko": "~의 하락"
+  },
+  {
+    "no": "4",
+    "en": "a handful of",
+    "ko": "소수의"
+  },
+  {
+    "no": "5",
+    "en": "a number of",
+    "ko": "많은, 다수의"
+  },
+  {
+    "no": "6",
+    "en": "a piece of cake",
+    "ko": "식은 죽 먹기"
+  },
+  {
+    "no": "7",
+    "en": "a range of",
+    "ko": "다양한"
+  },
+  {
+    "no": "8",
+    "en": "a series of ",
+    "ko": "연속의, 일련의"
+  },
+  {
+    "no": "9",
+    "en": "a slew of",
+    "ko": "많은"
+  },
+  {
+    "no": "10",
+    "en": "a step ahead of",
+    "ko": "(~보다) 한발 앞선"
+  },
+  {
+    "no": "11",
+    "en": "above all",
+    "ko": "무엇보다도, 특히"
+  },
+  {
+    "no": "12",
+    "en": "according to",
+    "ko": "~에 따르면"
+  },
+  {
+    "no": "13",
+    "en": "accustomed to",
+    "ko": "~에 익숙한"
+  },
+  {
+    "no": "14",
+    "en": "advance to ",
+    "ko": "~에 진출하다"
+  },
+  {
+    "no": "15",
+    "en": "agree on",
+    "ko": "~에 동의하다"
+  },
+  {
+    "no": "16",
+    "en": "all but",
+    "ko": "거의"
+  },
+  {
+    "no": "17",
+    "en": "all the rest",
+    "ko": "그 밖의 모든 것"
+  },
+  {
+    "no": "18",
+    "en": "all through",
+    "ko": "줄곧, 내내"
+  },
+  {
+    "no": "19",
+    "en": "along the way",
+    "ko": "그 과정에서"
+  },
+  {
+    "no": "20",
+    "en": "amount to",
+    "ko": "~에 이르다"
+  },
+  {
+    "no": "21",
+    "en": "an array of ",
+    "ko": "~의 무리, 집합"
+  },
+  {
+    "no": "22",
+    "en": "an eye for",
+    "ko": "~에 대한 안목"
+  },
+  {
+    "no": "23",
+    "en": "and the like",
+    "ko": "~같은 것, 기타 등등"
+  },
+  {
+    "no": "24",
+    "en": "angle for",
+    "ko": "~을 노리다"
+  },
+  {
+    "no": "25",
+    "en": "apart from",
+    "ko": "~을 제외하고"
+  },
+  {
+    "no": "26",
+    "en": "apply of",
+    "ko": "~에 지원하다"
+  },
+  {
+    "no": "27",
+    "en": "apply to",
+    "ko": "ⓐ ~에 적용되다, ⓑ ~에 지원하다"
+  },
+  {
+    "no": "28",
+    "en": "arise from",
+    "ko": "~에서 발생하다"
+  },
+  {
+    "no": "29",
+    "en": "as a last resort",
+    "ko": "최후의 수단으로서"
+  },
+  {
+    "no": "30",
+    "en": "as a matter of fact",
+    "ko": "사실은"
+  },
+  {
+    "no": "31",
+    "en": "as a result (of)",
+    "ko": "그 결과, 결과적으로"
+  },
+  {
+    "no": "32",
+    "en": "as a whole",
+    "ko": "전체적으로, 전체로서"
+  },
+  {
+    "no": "33",
+    "en": "as far as ",
+    "ko": "~하는 한, ~에 관한 한"
+  },
+  {
+    "no": "34",
+    "en": "as opposed to",
+    "ko": "~과는 반대로, ~과는 대조적으로"
+  },
+  {
+    "no": "35",
+    "en": "as though",
+    "ko": "마치~인 것 처럼"
+  },
+  {
+    "no": "36",
+    "en": "as to",
+    "ko": "~에 관해서는 "
+  },
+  {
+    "no": "37",
+    "en": "aside from",
+    "ko": "~이외에"
+  },
+  {
+    "no": "38",
+    "en": "at about",
+    "ko": "대략"
+  },
+  {
+    "no": "39",
+    "en": "at any rate",
+    "ko": "어쨌든"
+  },
+  {
+    "no": "40",
+    "en": "at first glance",
+    "ko": "언뜻 보기에는, 처음에는"
+  },
+  {
+    "no": "41",
+    "en": "at hand",
+    "ko": "당면한, 머지 않은"
+  },
+  {
+    "no": "42",
+    "en": "at large",
+    "ko": "전체적인, 대체적인"
+  },
+  {
+    "no": "43",
+    "en": "at no charge",
+    "ko": "무료로"
+  },
+  {
+    "no": "44",
+    "en": "at once",
+    "ko": "바로"
+  },
+  {
+    "no": "45",
+    "en": "at one's disposal",
+    "ko": "~의 마음대로, ~의 처분 하에"
+  },
+  {
+    "no": "46",
+    "en": "at stake",
+    "ko": "위태로운"
+  },
+  {
+    "no": "47",
+    "en": "at the cost of",
+    "ko": "~을 희생하여"
+  },
+  {
+    "no": "48",
+    "en": "at the forefront",
+    "ko": "~의 선두에서, 최전선에서"
+  },
+  {
+    "no": "49",
+    "en": "at the height of ",
+    "ko": "~의 절정에"
+  },
+  {
+    "no": "50",
+    "en": "at the last minute",
+    "ko": "임박해서, 마지막 순간에"
+  },
+  {
+    "no": "51",
+    "en": "at the mercy of",
+    "ko": "~에 휘둘리는"
+  },
+  {
+    "no": "52",
+    "en": "at the moment",
+    "ko": "바로 지금, 그때"
+  },
+  {
+    "no": "53",
+    "en": "at the same time",
+    "ko": "동시에, 함께"
+  },
+  {
+    "no": "54",
+    "en": "at times",
+    "ko": "때때로"
+  },
+  {
+    "no": "55",
+    "en": "attend to",
+    "ko": "ⓐ ~을 돌보다, 시중들다, ⓑ ~에 전념하다"
+  },
+  {
+    "no": "56",
+    "en": "bail out",
+    "ko": "~를 보석금으로 빼내다"
+  },
+  {
+    "no": "57",
+    "en": "be accompanied by",
+    "ko": "~를 수반하다, 동반하다"
+  },
+  {
+    "no": "58",
+    "en": "be accused of",
+    "ko": "~으로 비난받다, 피소되다"
+  },
+  {
+    "no": "59",
+    "en": "be acquainted with",
+    "ko": "친분이 있다"
+  },
+  {
+    "no": "60",
+    "en": "be adept at",
+    "ko": "~에 능숙하다"
+  },
+  {
+    "no": "61",
+    "en": "be around",
+    "ko": "존재하다, 부근에 있다"
+  },
+  {
+    "no": "62",
+    "en": "be assigned to",
+    "ko": "~에게 할당되다"
+  },
+  {
+    "no": "63",
+    "en": "be associated with",
+    "ko": "~과 관련되다, 연관되다"
+  },
+  {
+    "no": "64",
+    "en": "be attributed to",
+    "ko": "~에서 기인하다"
+  },
+  {
+    "no": "65",
+    "en": "be aware of",
+    "ko": "~에 대해 알다, ~을 의식하다"
+  },
+  {
+    "no": "66",
+    "en": "be based on",
+    "ko": "~에 기반하다, ~을 토대로 하다"
+  },
+  {
+    "no": "67",
+    "en": "be beset by",
+    "ko": "~으로 곤란을 겪다"
+  },
+  {
+    "no": "68",
+    "en": "be better off",
+    "ko": "(처지가) 더 낫다"
+  },
+  {
+    "no": "69",
+    "en": "be booked up ",
+    "ko": "(표가) 매진되다"
+  },
+  {
+    "no": "70",
+    "en": "be bound to",
+    "ko": " ~할 의무가 있다"
+  },
+  {
+    "no": "71",
+    "en": "be capable of ",
+    "ko": "~할 수 있다"
+  },
+  {
+    "no": "72",
+    "en": "be composed of",
+    "ko": "~으로 구성되어 있다"
+  },
+  {
+    "no": "73",
+    "en": "be concerned with",
+    "ko": "ⓐ ~에 관련이 있다, ⓑ ~에 관심이 있다"
+  },
+  {
+    "no": "74",
+    "en": "be credited with",
+    "ko": "~에 대한 공로를 인정받다"
+  },
+  {
+    "no": "75",
+    "en": "be cut out to be",
+    "ko": "~의 자질이 있는"
+  },
+  {
+    "no": "76",
+    "en": "be designed to",
+    "ko": "~하도록 설계되다"
+  },
+  {
+    "no": "77",
+    "en": "be disposed of",
+    "ko": "처리하다"
+  },
+  {
+    "no": "78",
+    "en": "be doomed to",
+    "ko": "~하게 마련이다"
+  },
+  {
+    "no": "79",
+    "en": "be eager to",
+    "ko": "간절히 ~하고 싶어 하다"
+  },
+  {
+    "no": "80",
+    "en": "be engaged in",
+    "ko": "~에 관여되다, 연루되다"
+  },
+  {
+    "no": "81",
+    "en": "be entitled to",
+    "ko": "~을 받을 자격이 있다"
+  },
+  {
+    "no": "82",
+    "en": "be far from",
+    "ko": "전혀 ~이 아닌"
+  },
+  {
+    "no": "83",
+    "en": "be fined for",
+    "ko": "~으로 벌금을 물다"
+  },
+  {
+    "no": "84",
+    "en": "be fond of",
+    "ko": "~을 좋아하다"
+  },
+  {
+    "no": "85",
+    "en": "be forced to",
+    "ko": "~할 수밖에 없다, 마지못해~하다"
+  },
+  {
+    "no": "86",
+    "en": "be hard on",
+    "ko": "ⓐ ~에게 매정하게 굴다, ~를 심하게 대하다, ⓑ ~에 나쁘다"
+  },
+  {
+    "no": "87",
+    "en": "be in a flap about",
+    "ko": "~에 대해 동요하다"
+  },
+  {
+    "no": "88",
+    "en": "be in league with",
+    "ko": "~와 한통속인"
+  },
+  {
+    "no": "89",
+    "en": "be in progress",
+    "ko": "진행 중이다"
+  },
+  {
+    "no": "90",
+    "en": "be inclined to",
+    "ko": "~하는 경향이 있다"
+  },
+  {
+    "no": "91",
+    "en": "be intent on",
+    "ko": "~에 열중하다"
+  },
+  {
+    "no": "92",
+    "en": "be involved in",
+    "ko": "~에 연루되다, 개입되다"
+  },
+  {
+    "no": "93",
+    "en": "be likely to",
+    "ko": "~할 가능성이 있다"
+  },
+  {
+    "no": "94",
+    "en": "be made of",
+    "ko": "~으로 만들어지다"
+  },
+  {
+    "no": "95",
+    "en": "be made up of",
+    "ko": "~으로 이루어지다, 구성되다"
+  },
+  {
+    "no": "96",
+    "en": "be meant to",
+    "ko": "~할 셈이다"
+  },
+  {
+    "no": "97",
+    "en": "be off to",
+    "ko": "~로 떠나다"
+  },
+  {
+    "no": "98",
+    "en": "be on edge",
+    "ko": "신경이 곤두서 있다"
+  },
+  {
+    "no": "99",
+    "en": "be on hand",
+    "ko": "참가하다"
+  },
+  {
+    "no": "100",
+    "en": "be on the verge of ",
+    "ko": "~하기 직전에"
+  },
+  {
+    "no": "101",
+    "en": "be open to",
+    "ko": "ⓐ ~에 열린 마음을 가지다, ⓑ ~에 개방되어 있다, ~의 여지가 있다 "
+  },
+  {
+    "no": "102",
+    "en": "be passed down",
+    "ko": "전해져 내려오다"
+  },
+  {
+    "no": "103",
+    "en": "be prone to",
+    "ko": "~하기 쉽다"
+  },
+  {
+    "no": "104",
+    "en": "be ready to",
+    "ko": "~할 준비가 되다"
+  },
+  {
+    "no": "105",
+    "en": "be responsible for",
+    "ko": "~에 책임이 있다"
+  },
+  {
+    "no": "106",
+    "en": "be rooted in",
+    "ko": "근거를 두다, ~에 원인이 있다"
+  },
+  {
+    "no": "107",
+    "en": "be said to",
+    "ko": "~이라고 한다"
+  },
+  {
+    "no": "108",
+    "en": "be serviceable to",
+    "ko": "~에 도움이 되다, 적합하다"
+  },
+  {
+    "no": "109",
+    "en": "be short of",
+    "ko": "~이 부족하다"
+  },
+  {
+    "no": "110",
+    "en": "be snesitive to",
+    "ko": "~에 민감한, (계절 등을) 타다"
+  },
+  {
+    "no": "111",
+    "en": "be subject to",
+    "ko": "~의 대상이다"
+  },
+  {
+    "no": "112",
+    "en": "be sure to ",
+    "ko": "반드시~하다, 꼭~하다"
+  },
+  {
+    "no": "113",
+    "en": "be survived by",
+    "ko": "~보다 먼저 죽다"
+  },
+  {
+    "no": "114",
+    "en": "be the case",
+    "ko": "실제로 그러하다"
+  },
+  {
+    "no": "115",
+    "en": "be the first to",
+    "ko": "솔선하여 ~하다"
+  },
+  {
+    "no": "116",
+    "en": "be tired of ",
+    "ko": "~에 실증이 나다"
+  },
+  {
+    "no": "117",
+    "en": "be to blame for",
+    "ko": "~에 대한 책임이 있다"
+  },
+  {
+    "no": "118",
+    "en": "be told to",
+    "ko": "당부받다"
+  },
+  {
+    "no": "119",
+    "en": "be treated with",
+    "ko": "치료를 받다"
+  },
+  {
+    "no": "120",
+    "en": "be up and about",
+    "ko": "상태가 호전되다"
+  },
+  {
+    "no": "121",
+    "en": "be up to ",
+    "ko": "~에 달려 있다"
+  },
+  {
+    "no": "122",
+    "en": "be well on the way to ",
+    "ko": "~을 거의 다 이루어가다"
+  },
+  {
+    "no": "123",
+    "en": "be willing to ",
+    "ko": "기꺼이 ~하다"
+  },
+  {
+    "no": "124",
+    "en": "bear out",
+    "ko": "지지하다, 증명하다"
+  },
+  {
+    "no": "125",
+    "en": "beat around the bush",
+    "ko": "둘러내다, 요점을 피하다"
+  },
+  {
+    "no": "126",
+    "en": "beat back",
+    "ko": "~을 격퇴하다"
+  },
+  {
+    "no": "127",
+    "en": "between the lines",
+    "ko": "넌지시, 암시적으로"
+  },
+  {
+    "no": "128",
+    "en": "beyond control",
+    "ko": "통제가 불가능하다"
+  },
+  {
+    "no": "129",
+    "en": "boast of",
+    "ko": "~을 뽐내다"
+  },
+  {
+    "no": "130",
+    "en": "bother with",
+    "ko": "~으로 걱정하게 하다"
+  },
+  {
+    "no": "131",
+    "en": "bounce back",
+    "ko": "다시 회복되다"
+  },
+  {
+    "no": "132",
+    "en": "break a bill",
+    "ko": "지폐를 바꾸다"
+  },
+  {
+    "no": "133",
+    "en": "break a habit",
+    "ko": "버릇을 고치다"
+  },
+  {
+    "no": "134",
+    "en": "break down",
+    "ko": "고장 나다, 무너지다"
+  },
+  {
+    "no": "135",
+    "en": "break out",
+    "ko": "ⓐ 발발하다, 발생하다, ⓑ 탈출하다"
+  },
+  {
+    "no": "136",
+    "en": "bring about",
+    "ko": "일으키다, 야기하다"
+  },
+  {
+    "no": "137",
+    "en": "bring out ",
+    "ko": "발휘하게 하다, 끌어내다"
+  },
+  {
+    "no": "138",
+    "en": "broadly speaking",
+    "ko": "대체로, 대략 말하자면"
+  },
+  {
+    "no": "139",
+    "en": "brush aside",
+    "ko": "무시하다"
+  },
+  {
+    "no": "140",
+    "en": "brush up on",
+    "ko": "~을 복습하다"
+  },
+  {
+    "no": "141",
+    "en": "build up",
+    "ko": "확립하다, 개발하다"
+  },
+  {
+    "no": "142",
+    "en": "burst into",
+    "ko": "(갑자기) ~하기 시작하다"
+  },
+  {
+    "no": "143",
+    "en": "by all means",
+    "ko": "무슨 수를 쓰더라도"
+  },
+  {
+    "no": "144",
+    "en": "by and large",
+    "ko": "대체로"
+  },
+  {
+    "no": "145",
+    "en": "by any means",
+    "ko": "어떻게 해서든"
+  },
+  {
+    "no": "146",
+    "en": "by far",
+    "ko": "훨씬"
+  },
+  {
+    "no": "147",
+    "en": "by means of",
+    "ko": "~을 써서, ~의 도움으로"
+  },
+  {
+    "no": "148",
+    "en": "by nature",
+    "ko": "천성적으로, 본래"
+  },
+  {
+    "no": "149",
+    "en": "by no means",
+    "ko": "결코 ~이 아닌"
+  },
+  {
+    "no": "150",
+    "en": "by oneself",
+    "ko": "혼자서, 스스로"
+  },
+  {
+    "no": "151",
+    "en": "by the time",
+    "ko": "~할 즈음에"
+  },
+  {
+    "no": "152",
+    "en": "call off",
+    "ko": "중지하다, 취소하다"
+  },
+  {
+    "no": "153",
+    "en": "call on",
+    "ko": "~에게 청하다"
+  },
+  {
+    "no": "154",
+    "en": "call up",
+    "ko": "~을 불러일으키다"
+  },
+  {
+    "no": "155",
+    "en": "cast doubt on",
+    "ko": "의구심을 제기하다"
+  },
+  {
+    "no": "156",
+    "en": "catch on",
+    "ko": "유행하다, 인기를 얻다"
+  },
+  {
+    "no": "157",
+    "en": "catch up",
+    "ko": "따라잡다"
+  },
+  {
+    "no": "158",
+    "en": "caught up in",
+    "ko": "~에 휩쓸린"
+  },
+  {
+    "no": "159",
+    "en": "check with",
+    "ko": "~와 의논하다"
+  },
+  {
+    "no": "160",
+    "en": "chip away",
+    "ko": "조금씩 잘라내다"
+  },
+  {
+    "no": "161",
+    "en": "clear away",
+    "ko": "청소하다, ~을 치우다"
+  },
+  {
+    "no": "162",
+    "en": "cling to",
+    "ko": "~을 고수하다"
+  },
+  {
+    "no": "163",
+    "en": "come about",
+    "ko": "일어나다, 발생하다"
+  },
+  {
+    "no": "164",
+    "en": "come across",
+    "ko": "우연히 만나다"
+  },
+  {
+    "no": "165",
+    "en": "come between",
+    "ko": "~사이에 오다"
+  },
+  {
+    "no": "166",
+    "en": "come by",
+    "ko": "얻다"
+  },
+  {
+    "no": "167",
+    "en": "come down with",
+    "ko": "(병에) 걸리다"
+  },
+  {
+    "no": "168",
+    "en": "come forward",
+    "ko": "나서다"
+  },
+  {
+    "no": "169",
+    "en": "come into existence",
+    "ko": "생기다, 나타나다"
+  },
+  {
+    "no": "170",
+    "en": "come into force",
+    "ko": "효력을 발생하다"
+  },
+  {
+    "no": "171",
+    "en": "come into one's own",
+    "ko": "명예·신용을 얻다"
+  },
+  {
+    "no": "172",
+    "en": "come into play",
+    "ko": "작동하기 시작하다"
+  },
+  {
+    "no": "173",
+    "en": "come out with",
+    "ko": "~을 공표하다"
+  },
+  {
+    "no": "174",
+    "en": "come through",
+    "ko": "(메시지 등이) 들어오다"
+  },
+  {
+    "no": "175",
+    "en": "come to light",
+    "ko": "알려지다, 밝혀지다"
+  },
+  {
+    "no": "176",
+    "en": "come upon",
+    "ko": "우연히 떠오르다"
+  },
+  {
+    "no": "177",
+    "en": "commit suicide",
+    "ko": "자살하다"
+  },
+  {
+    "no": "178",
+    "en": "common ground",
+    "ko": "공통점"
+  },
+  {
+    "no": "179",
+    "en": "compensate for",
+    "ko": "보충하다, ~에 대해 보상하다"
+  },
+  {
+    "no": "180",
+    "en": "concur with",
+    "ko": "~에 동의하다"
+  },
+  {
+    "no": "181",
+    "en": "conducive to",
+    "ko": "~에 도움이 되는"
+  },
+  {
+    "no": "182",
+    "en": "consist of",
+    "ko": "~으로 구성되다"
+  },
+  {
+    "no": "183",
+    "en": "contrary to",
+    "ko": "~과 반대로"
+  },
+  {
+    "no": "184",
+    "en": "correspond to",
+    "ko": "~과 일치하다, 대응하다"
+  },
+  {
+    "no": "185",
+    "en": "correspond with",
+    "ko": "~과 일치하다, 서신을 주고받다"
+  },
+  {
+    "no": "186",
+    "en": "cost an arm and a leg",
+    "ko": "큰돈이 들다"
+  },
+  {
+    "no": "187",
+    "en": "count on",
+    "ko": "~에 의지하다, ~를 믿다"
+  },
+  {
+    "no": "188",
+    "en": "count out",
+    "ko": "빼다, 배제하다"
+  },
+  {
+    "no": "189",
+    "en": "cover letter",
+    "ko": "자기소개서"
+  },
+  {
+    "no": "190",
+    "en": "cover up ",
+    "ko": "~을 가리다, 감추다"
+  },
+  {
+    "no": "191",
+    "en": "crack down on",
+    "ko": "단호한 조치를 취하다"
+  },
+  {
+    "no": "192",
+    "en": "crop up",
+    "ko": "불쑥 나타나다"
+  },
+  {
+    "no": "193",
+    "en": "crowd out",
+    "ko": "몰아내다"
+  },
+  {
+    "no": "194",
+    "en": "culminate in",
+    "ko": "결국~이 되다"
+  },
+  {
+    "no": "195",
+    "en": "cut back",
+    "ko": "축소하다, 삭감하다"
+  },
+  {
+    "no": "196",
+    "en": "cut corners",
+    "ko": "절차를 무시하다"
+  },
+  {
+    "no": "197",
+    "en": "cut down",
+    "ko": "~을 줄이다, 삭감하다"
+  },
+  {
+    "no": "198",
+    "en": "cut it close",
+    "ko": "절약하다"
+  },
+  {
+    "no": "199",
+    "en": "cut off",
+    "ko": "차단하다"
+  },
+  {
+    "no": "200",
+    "en": "cutting edge",
+    "ko": "최첨단"
+  },
+  {
+    "no": "201",
+    "en": "dare to",
+    "ko": "건방지게 ~하다"
+  },
+  {
+    "no": "202",
+    "en": "date back",
+    "ko": "(시기를) 거슬러 올라가다"
+  },
+  {
+    "no": "203",
+    "en": "date from",
+    "ko": "~부터 시작되다"
+  },
+  {
+    "no": "204",
+    "en": "deem to",
+    "ko": "~으로 여기다, 생각하다"
+  },
+  {
+    "no": "205",
+    "en": "depend on",
+    "ko": "~에 달려 있다, ~을 신뢰하다"
+  },
+  {
+    "no": "206",
+    "en": "derive from",
+    "ko": "~으로부터 비롯되다, ~에서 얻다"
+  },
+  {
+    "no": "207",
+    "en": "destined to",
+    "ko": "~할 운명인"
+  },
+  {
+    "no": "208",
+    "en": "die down",
+    "ko": "약해지다"
+  },
+  {
+    "no": "209",
+    "en": "die of",
+    "ko": "~으로 죽다, 사망하다"
+  },
+  {
+    "no": "210",
+    "en": "differ from",
+    "ko": "~와 다르다"
+  },
+  {
+    "no": "211",
+    "en": "do a good turn",
+    "ko": "남에게 친절하게 하다"
+  },
+  {
+    "no": "212",
+    "en": "do justice to",
+    "ko": "~을 공정하게 대하다"
+  },
+  {
+    "no": "213",
+    "en": "do no harm",
+    "ko": "해가 되지 않다"
+  },
+  {
+    "no": "214",
+    "en": "do well to",
+    "ko": "~하는 것이 낫다"
+  },
+  {
+    "no": "215",
+    "en": "down to",
+    "ko": "~에 이르기까지"
+  },
+  {
+    "no": "216",
+    "en": "draw up ",
+    "ko": "~을 작성하다"
+  },
+  {
+    "no": "217",
+    "en": "drift apart",
+    "ko": "사이가 멀어지다"
+  },
+  {
+    "no": "218",
+    "en": "drift away",
+    "ko": "벗어나다, 줄행랑치다"
+  },
+  {
+    "no": "219",
+    "en": "drop by",
+    "ko": "잠깐 들르다"
+  },
+  {
+    "no": "220",
+    "en": "drop off",
+    "ko": "잠들다"
+  },
+  {
+    "no": "221",
+    "en": "due to",
+    "ko": "~때문에, ~에 기인하는"
+  },
+  {
+    "no": "222",
+    "en": "dust down",
+    "ko": "(먼지를) 털다"
+  },
+  {
+    "no": "223",
+    "en": "dwell on",
+    "ko": "~을 깊이 생각하다"
+  },
+  {
+    "no": "224",
+    "en": "ease into ",
+    "ko": "~에 친숙해지다"
+  },
+  {
+    "no": "225",
+    "en": "eat into",
+    "ko": "~을 부식하다"
+  },
+  {
+    "no": "226",
+    "en": "emancipate from",
+    "ko": "단결시키다"
+  },
+  {
+    "no": "227",
+    "en": "emerge from",
+    "ko": "~에서 벗어나다"
+  },
+  {
+    "no": "228",
+    "en": "end in",
+    "ko": "~으로 끝나다, ~이 되다"
+  },
+  {
+    "no": "229",
+    "en": "end up",
+    "ko": "결국 ~하게 되다"
+  },
+  {
+    "no": "230",
+    "en": "engage in",
+    "ko": "~에 관여하다, 참여하다, 가담하다"
+  },
+  {
+    "no": "231",
+    "en": "enrich oneself",
+    "ko": "부자가 되다"
+  },
+  {
+    "no": "232",
+    "en": "except for",
+    "ko": "~을 제외하고"
+  },
+  {
+    "no": "233",
+    "en": "factor in",
+    "ko": "~을 고려하다"
+  },
+  {
+    "no": "234",
+    "en": "fall below",
+    "ko": "~에 미치지 않다"
+  },
+  {
+    "no": "235",
+    "en": "fall into",
+    "ko": "~으로 나뉘다"
+  },
+  {
+    "no": "236",
+    "en": "fall short of",
+    "ko": "~에 못 미치다"
+  },
+  {
+    "no": "237",
+    "en": "fall to ",
+    "ko": "~의 몫이 되다"
+  },
+  {
+    "no": "238",
+    "en": "fall under",
+    "ko": "~의 영향을 받다"
+  },
+  {
+    "no": "239",
+    "en": "fall victim to",
+    "ko": "~의 희생자가 되다"
+  },
+  {
+    "no": "240",
+    "en": "far and away",
+    "ko": "훨씬, 단연코"
+  },
+  {
+    "no": "241",
+    "en": "far beyond",
+    "ko": "~을 훨씬 넘어서"
+  },
+  {
+    "no": "242",
+    "en": "feast on",
+    "ko": "~을 마음껏 먹다"
+  },
+  {
+    "no": "243",
+    "en": "fed up with",
+    "ko": "~에 진저리가 난"
+  },
+  {
+    "no": "244",
+    "en": "feel blue",
+    "ko": "우울하다"
+  },
+  {
+    "no": "245",
+    "en": "fight to the death",
+    "ko": "최후까지 싸우다"
+  },
+  {
+    "no": "246",
+    "en": "figure as",
+    "ko": "~의 역할을 하다"
+  },
+  {
+    "no": "247",
+    "en": "fit into",
+    "ko": "~에 꼭 들어맞다, 적합하다"
+  },
+  {
+    "no": "248",
+    "en": "follow in ~footsteps",
+    "ko": "~의 뒤를 잇다"
+  },
+  {
+    "no": "249",
+    "en": "fool into",
+    "ko": "속여서 ~하게 시키다"
+  },
+  {
+    "no": "250",
+    "en": "for the sake of",
+    "ko": "~을 위해서"
+  },
+  {
+    "no": "251",
+    "en": "for the time being",
+    "ko": "당분간"
+  },
+  {
+    "no": "252",
+    "en": "fresh from",
+    "ko": "~을 갓 나온"
+  },
+  {
+    "no": "253",
+    "en": "fret over",
+    "ko": "걱정하다"
+  },
+  {
+    "no": "254",
+    "en": "from now on",
+    "ko": "이제부터, 항후"
+  },
+  {
+    "no": "255",
+    "en": "from scratch",
+    "ko": "처음부터"
+  },
+  {
+    "no": "256",
+    "en": "gaze at ",
+    "ko": "응시하다"
+  },
+  {
+    "no": "257",
+    "en": "generally speaking",
+    "ko": "일반적으로 말하면"
+  },
+  {
+    "no": "258",
+    "en": "get across",
+    "ko": "이해시키다"
+  },
+  {
+    "no": "259",
+    "en": "get along with",
+    "ko": "~와 잘 지내다"
+  },
+  {
+    "no": "260",
+    "en": "get back on",
+    "ko": "~로 돌아오다"
+  },
+  {
+    "no": "261",
+    "en": "get back to",
+    "ko": "~으로 돌아가다"
+  },
+  {
+    "no": "262",
+    "en": "get by",
+    "ko": "그럭저럭 해 나가다"
+  },
+  {
+    "no": "263",
+    "en": "get down to",
+    "ko": "바로 본론으로 들어가다"
+  },
+  {
+    "no": "264",
+    "en": "get on with",
+    "ko": "지속해 나가다"
+  },
+  {
+    "no": "265",
+    "en": "get one's feet wet",
+    "ko": "(처음) 해보다, 시작하다"
+  },
+  {
+    "no": "266",
+    "en": "get rid of",
+    "ko": "~을 처리하다, 없애다"
+  },
+  {
+    "no": "267",
+    "en": "get round",
+    "ko": "(잘해주어서) ~를 설득하다"
+  },
+  {
+    "no": "268",
+    "en": "get through",
+    "ko": "~을 빠져나가다"
+  },
+  {
+    "no": "269",
+    "en": "get through with",
+    "ko": "~을 끝내다 ,완료하다"
+  },
+  {
+    "no": "270",
+    "en": "get to",
+    "ko": "~에 이르다"
+  },
+  {
+    "no": "271",
+    "en": "get up",
+    "ko": "ⓐ (앉거나 누워 있다가) 일어나다, 깨우다, ⓑ (바다·바람이)거세지다"
+  },
+  {
+    "no": "272",
+    "en": "get wrong",
+    "ko": "오해하다"
+  },
+  {
+    "no": "273",
+    "en": "get[be] in touch",
+    "ko": "연락하다, ~와 닿다"
+  },
+  {
+    "no": "274",
+    "en": "get~off the hook",
+    "ko": "곤경을 면하다"
+  },
+  {
+    "no": "275",
+    "en": "give a ride[lift]",
+    "ko": "태워주다"
+  },
+  {
+    "no": "276",
+    "en": "give a speech",
+    "ko": "연설을 하다"
+  },
+  {
+    "no": "277",
+    "en": "give off",
+    "ko": "(냄새·열·빛 등을) 내뿜다, 발산하다"
+  },
+  {
+    "no": "278",
+    "en": "give way to",
+    "ko": "~을 못 이기다"
+  },
+  {
+    "no": "279",
+    "en": "give~a break",
+    "ko": "~를 너그럽게 봐주다"
+  },
+  {
+    "no": "280",
+    "en": "go aloft",
+    "ko": "죽다, 천당에 가다"
+  },
+  {
+    "no": "281",
+    "en": "go along with",
+    "ko": "~에 동의하다"
+  },
+  {
+    "no": "282",
+    "en": "go awry",
+    "ko": "실패하다"
+  },
+  {
+    "no": "283",
+    "en": "go back on one's word",
+    "ko": "약속을 어기다"
+  },
+  {
+    "no": "284",
+    "en": "go far ",
+    "ko": "성공하다"
+  },
+  {
+    "no": "285",
+    "en": "go for",
+    "ko": "~을 선택하다"
+  },
+  {
+    "no": "286",
+    "en": "go green",
+    "ko": "친환경적이 되다"
+  },
+  {
+    "no": "287",
+    "en": "go into business",
+    "ko": "사업에 나서다"
+  },
+  {
+    "no": "288",
+    "en": "go nowhere",
+    "ko": "아무런 진전이 없다"
+  },
+  {
+    "no": "289",
+    "en": "go on",
+    "ko": "계속 진행되다, 계속하다"
+  },
+  {
+    "no": "290",
+    "en": "go on the air",
+    "ko": "방송되다"
+  },
+  {
+    "no": "291",
+    "en": "go over",
+    "ko": "ⓐ 검토하다, 조사하다, ⓑ ~을 넘다"
+  },
+  {
+    "no": "292",
+    "en": "go through",
+    "ko": "ⓐ (과정·절차 등을) 거치다, 겪다, ⓑ 면밀히 살피다"
+  },
+  {
+    "no": "293",
+    "en": "go under",
+    "ko": "파산하다, 가라앉다"
+  },
+  {
+    "no": "294",
+    "en": "go with",
+    "ko": "~에 포함되다"
+  },
+  {
+    "no": "295",
+    "en": "go wrong",
+    "ko": "(일이) 잘못되다, 잘못하다"
+  },
+  {
+    "no": "296",
+    "en": "go[do] without",
+    "ko": "~없이 지내다"
+  },
+  {
+    "no": "297",
+    "en": "grab a bite",
+    "ko": "간단하게 먹다"
+  },
+  {
+    "no": "298",
+    "en": "had better",
+    "ko": "~하는 것이 좋다 "
+  },
+  {
+    "no": "299",
+    "en": "hammer out",
+    "ko": "(문제를) 타결하다"
+  },
+  {
+    "no": "300",
+    "en": "hand down",
+    "ko": "물려주다"
+  },
+  {
+    "no": "301",
+    "en": "hand in",
+    "ko": "~을 제출하다, 건네주다"
+  },
+  {
+    "no": "302",
+    "en": "hand out ",
+    "ko": "나누어 주다"
+  },
+  {
+    "no": "303",
+    "en": "hand over",
+    "ko": "넘겨주다, 인도하다"
+  },
+  {
+    "no": "304",
+    "en": "hang about with",
+    "ko": "~와 자주 어울리다"
+  },
+  {
+    "no": "305",
+    "en": "hang on",
+    "ko": "꽉 붙잡다, 기다리다"
+  },
+  {
+    "no": "306",
+    "en": "hang out ",
+    "ko": "어울리다"
+  },
+  {
+    "no": "307",
+    "en": "hang up",
+    "ko": "(전화를) 끊다"
+  },
+  {
+    "no": "308",
+    "en": "happen to",
+    "ko": "~하게 되다, (어떤 일이) ~에게 일어나다"
+  },
+  {
+    "no": "309",
+    "en": "have difficulty ~ing",
+    "ko": "~을 하는 데 곤란을 느끼다"
+  },
+  {
+    "no": "310",
+    "en": "have in mind",
+    "ko": "염두에 두다, 계획하다"
+  },
+  {
+    "no": "311",
+    "en": "have no choice but to",
+    "ko": "~할 수밖에 없다"
+  },
+  {
+    "no": "312",
+    "en": "have no idea",
+    "ko": "전혀 모르다"
+  },
+  {
+    "no": "313",
+    "en": "have nothing to do with",
+    "ko": "~과 관계가 없다"
+  },
+  {
+    "no": "314",
+    "en": "have to do with",
+    "ko": "~과 관련이 있다"
+  },
+  {
+    "no": "315",
+    "en": "have yet to",
+    "ko": "아직 ~하지 않았다"
+  },
+  {
+    "no": "316",
+    "en": "have[take] pity on",
+    "ko": "~을 가엾게 여기다"
+  },
+  {
+    "no": "317",
+    "en": "hear out",
+    "ko": "(이야기를) 끝까지 듣다"
+  },
+  {
+    "no": "318",
+    "en": "heat up",
+    "ko": "ⓐ 가열되다, ⓑ (분위기 등을) 달아오르다"
+  },
+  {
+    "no": "319",
+    "en": "hinge on",
+    "ko": "~에 달려 있다"
+  },
+  {
+    "no": "320",
+    "en": "hit upon",
+    "ko": "(우연히) ~을 생각해내다"
+  },
+  {
+    "no": "321",
+    "en": "hit~hard",
+    "ko": "~를 심하게 치다"
+  },
+  {
+    "no": "322",
+    "en": "hold back",
+    "ko": "억제하다, 막다"
+  },
+  {
+    "no": "323",
+    "en": "hold public office",
+    "ko": "공직에 있다"
+  },
+  {
+    "no": "324",
+    "en": "hollow out ",
+    "ko": "~의 속을 파내다"
+  },
+  {
+    "no": "325",
+    "en": "impel A to B",
+    "ko": "A가 압박감에 B하게 만들다"
+  },
+  {
+    "no": "326",
+    "en": "in (a)~fashion",
+    "ko": "~한 방식으로"
+  },
+  {
+    "no": "327",
+    "en": "in a big way",
+    "ko": "대규모로"
+  },
+  {
+    "no": "328",
+    "en": "in a row",
+    "ko": "연달아"
+  },
+  {
+    "no": "329",
+    "en": "in a sense",
+    "ko": "어떤 면에서는"
+  },
+  {
+    "no": "330",
+    "en": "in accordance with",
+    "ko": "~에 따라서"
+  },
+  {
+    "no": "331",
+    "en": "in addition",
+    "ko": "~뿐만 아니라, 또한"
+  },
+  {
+    "no": "332",
+    "en": "in addition to",
+    "ko": "ⓐ ~이외에도, ⓑ ~에 더하여"
+  },
+  {
+    "no": "333",
+    "en": "in advance",
+    "ko": "미리, 사전에"
+  },
+  {
+    "no": "334",
+    "en": "in an effort to",
+    "ko": "~하기 위한 노력으로"
+  },
+  {
+    "no": "335",
+    "en": "in case (of)",
+    "ko": "~의 경우, 만약 ~한다면"
+  },
+  {
+    "no": "336",
+    "en": "in charge (of)",
+    "ko": "(~을) 담당한, 맡은"
+  },
+  {
+    "no": "337",
+    "en": "in common",
+    "ko": "공동으로, 공통으로"
+  },
+  {
+    "no": "338",
+    "en": "in comparison with",
+    "ko": "~에 비해서"
+  },
+  {
+    "no": "339",
+    "en": "in conjunction with",
+    "ko": "~와 함께"
+  },
+  {
+    "no": "340",
+    "en": "in defiance of",
+    "ko": "~에 대항하여"
+  },
+  {
+    "no": "341",
+    "en": "in detail",
+    "ko": "자세히, 상세히"
+  },
+  {
+    "no": "342",
+    "en": "in due form",
+    "ko": "정식으로 "
+  },
+  {
+    "no": "343",
+    "en": "in effect",
+    "ko": "실제로는"
+  },
+  {
+    "no": "344",
+    "en": "in fits and starts",
+    "ko": "간헐적으로 "
+  },
+  {
+    "no": "345",
+    "en": "in full",
+    "ko": "전부, 빠짐없이"
+  },
+  {
+    "no": "346",
+    "en": "in general terms",
+    "ko": "대체적으로 "
+  },
+  {
+    "no": "347",
+    "en": "in hand",
+    "ko": "현재 하고 있는"
+  },
+  {
+    "no": "348",
+    "en": "in harm's way",
+    "ko": "위험에 처한, 위험을 무릅쓰고"
+  },
+  {
+    "no": "349",
+    "en": "in line with",
+    "ko": "~에 따라, ~과 비슷한"
+  },
+  {
+    "no": "350",
+    "en": "in matters of",
+    "ko": "~에 관해서는 "
+  },
+  {
+    "no": "351",
+    "en": "in no time",
+    "ko": "곧, 당장에"
+  },
+  {
+    "no": "352",
+    "en": "in order to",
+    "ko": "~하기 위해서"
+  },
+  {
+    "no": "353",
+    "en": "in other words",
+    "ko": "다시 말해서, 달리 말하면"
+  },
+  {
+    "no": "354",
+    "en": "in particular",
+    "ko": "특히"
+  },
+  {
+    "no": "355",
+    "en": "in passing",
+    "ko": "지나가는 말로"
+  },
+  {
+    "no": "356",
+    "en": "in person",
+    "ko": "직접"
+  },
+  {
+    "no": "357",
+    "en": "in place",
+    "ko": "가동 준비가 된"
+  },
+  {
+    "no": "358",
+    "en": "in praise of ",
+    "ko": "~을 칭찬하여"
+  },
+  {
+    "no": "359",
+    "en": "in proportion to",
+    "ko": "~에 비례하여"
+  },
+  {
+    "no": "360",
+    "en": "in return",
+    "ko": "답례로"
+  },
+  {
+    "no": "361",
+    "en": "in search of",
+    "ko": "~을 찾아서, 추구하여"
+  },
+  {
+    "no": "362",
+    "en": "in season",
+    "ko": "제철의"
+  },
+  {
+    "no": "363",
+    "en": "in short supply",
+    "ko": "공급이 부족한"
+  },
+  {
+    "no": "364",
+    "en": "in some way",
+    "ko": "어떤 점에서는 "
+  },
+  {
+    "no": "365",
+    "en": "in sync with",
+    "ko": "~과 맞춰서"
+  },
+  {
+    "no": "366",
+    "en": "in tandem with",
+    "ko": "나란히"
+  },
+  {
+    "no": "367",
+    "en": "in that",
+    "ko": "~이므로"
+  },
+  {
+    "no": "368",
+    "en": "in the absence of",
+    "ko": "~이 없을 때에"
+  },
+  {
+    "no": "369",
+    "en": "in the event of",
+    "ko": "만약 ~인 경우에"
+  },
+  {
+    "no": "370",
+    "en": "in the face of",
+    "ko": "~에 직면하여"
+  },
+  {
+    "no": "371",
+    "en": "in the interest of",
+    "ko": "~을 위하여"
+  },
+  {
+    "no": "372",
+    "en": "in the least",
+    "ko": "조금도 ~않다 "
+  },
+  {
+    "no": "373",
+    "en": "in the long run",
+    "ko": "장기적으로"
+  },
+  {
+    "no": "374",
+    "en": "in the midst of",
+    "ko": "~도중에"
+  },
+  {
+    "no": "375",
+    "en": "in the wake of",
+    "ko": "~에 뒤이어"
+  },
+  {
+    "no": "376",
+    "en": "in the words of",
+    "ko": "~의 말에 따르면"
+  },
+  {
+    "no": "377",
+    "en": "in time",
+    "ko": "이윽고"
+  },
+  {
+    "no": "378",
+    "en": "incapable of",
+    "ko": "~할 수 없는"
+  },
+  {
+    "no": "379",
+    "en": "incompatible with",
+    "ko": "~과 양립할 수 없는"
+  },
+  {
+    "no": "380",
+    "en": "infringe on",
+    "ko": "~을 침해하다"
+  },
+  {
+    "no": "381",
+    "en": "inside out",
+    "ko": "ⓐ 철처하게, 안팎으로, ⓑ (안팎을) 뒤집어"
+  },
+  {
+    "no": "382",
+    "en": "instead of",
+    "ko": "~대신에"
+  },
+  {
+    "no": "383",
+    "en": "integrate into",
+    "ko": "~에 통합되다"
+  },
+  {
+    "no": "384",
+    "en": "interest rate",
+    "ko": "금리, 이율"
+  },
+  {
+    "no": "385",
+    "en": "irrespective of",
+    "ko": "~과 상관없이"
+  },
+  {
+    "no": "386",
+    "en": "it follows that",
+    "ko": "결과적으로 ~이다"
+  },
+  {
+    "no": "387",
+    "en": "jump to conclusions",
+    "ko": "성급히 결론을 내리다"
+  },
+  {
+    "no": "388",
+    "en": "keep ~posted",
+    "ko": "~에게 최신 정보를 전하다"
+  },
+  {
+    "no": "389",
+    "en": "keep an eye on",
+    "ko": "~을 주시하다, 계속 지켜보다"
+  },
+  {
+    "no": "390",
+    "en": "keep one's chin up",
+    "ko": "용기를 잃지 않다"
+  },
+  {
+    "no": "391",
+    "en": "keep one's feet on the ground",
+    "ko": "현실적이다"
+  },
+  {
+    "no": "392",
+    "en": "keep pace with",
+    "ko": "~와 보조를 맞추다"
+  },
+  {
+    "no": "393",
+    "en": "keep track of ",
+    "ko": "~의 뒤를 쫓다, 추적하다"
+  },
+  {
+    "no": "394",
+    "en": "keep up with",
+    "ko": "따라잡다"
+  },
+  {
+    "no": "395",
+    "en": "keep~to oneself",
+    "ko": "~을 비밀로 하다"
+  },
+  {
+    "no": "396",
+    "en": "knock off",
+    "ko": "(일을) 중단하다, 끝내다"
+  },
+  {
+    "no": "397",
+    "en": "knock out",
+    "ko": "깜짝 놀라게 하다"
+  },
+  {
+    "no": "398",
+    "en": "laced with",
+    "ko": "~이 가미된"
+  },
+  {
+    "no": "399",
+    "en": "lag behind",
+    "ko": "뒤처지다"
+  },
+  {
+    "no": "400",
+    "en": "lash out",
+    "ko": "강타하다"
+  },
+  {
+    "no": "401",
+    "en": "lay claim to",
+    "ko": "~에 대한 권리를 주장하다"
+  },
+  {
+    "no": "402",
+    "en": "lay down",
+    "ko": "ⓐ ~에 놓다, 두다, ⓑ (규칙을) 정하다"
+  },
+  {
+    "no": "403",
+    "en": "lay off",
+    "ko": "해고하다"
+  },
+  {
+    "no": "404",
+    "en": "lay out",
+    "ko": "ⓐ ~을 제시하다, ⓑ ~을 펼치다, 배치하다"
+  },
+  {
+    "no": "405",
+    "en": "lay~up",
+    "ko": "~을 모으다, 비축하다"
+  },
+  {
+    "no": "406",
+    "en": "lean into",
+    "ko": "(어려운 것을) 받아들이다"
+  },
+  {
+    "no": "407",
+    "en": "leave behind",
+    "ko": "두고 가다"
+  },
+  {
+    "no": "408",
+    "en": "leave no stone unturned",
+    "ko": "온갖 수를 다 쓰다"
+  },
+  {
+    "no": "409",
+    "en": "leave off",
+    "ko": "중단하다, 멈추다"
+  },
+  {
+    "no": "410",
+    "en": "leer at",
+    "ko": "~을 힐끔거리다"
+  },
+  {
+    "no": "411",
+    "en": "lend oneself to",
+    "ko": "~에 도움이 되다, 적합하다"
+  },
+  {
+    "no": "412",
+    "en": "let alone",
+    "ko": "~은 고사하고, ~은 커녕"
+  },
+  {
+    "no": "413",
+    "en": "let down",
+    "ko": "~를 실망시키다"
+  },
+  {
+    "no": "414",
+    "en": "lie in",
+    "ko": "~에 있다"
+  },
+  {
+    "no": "415",
+    "en": "lift the ban on",
+    "ko": "~에 대한 금지를 없애다"
+  },
+  {
+    "no": "416",
+    "en": "live on",
+    "ko": "~으로 먹고 살다"
+  },
+  {
+    "no": "417",
+    "en": "live up to",
+    "ko": "~에 부끄럽지 않게 살다"
+  },
+  {
+    "no": "418",
+    "en": "long for",
+    "ko": "열망하다, 갈망하다"
+  },
+  {
+    "no": "419",
+    "en": "look down on",
+    "ko": "~을 경시하다"
+  },
+  {
+    "no": "420",
+    "en": "look for",
+    "ko": "ⓐ ~을 찾다, 구하다, ⓑ ~을 기대하다, 바라다"
+  },
+  {
+    "no": "421",
+    "en": "look forward to",
+    "ko": "~을 기대하다"
+  },
+  {
+    "no": "422",
+    "en": "look out",
+    "ko": "ⓐ 조심하다, ⓑ 바라보다"
+  },
+  {
+    "no": "423",
+    "en": "look the other way",
+    "ko": "못 본 척하다"
+  },
+  {
+    "no": "424",
+    "en": "look to",
+    "ko": "ⓐ ~을 생각해보다, ~에 주의하다, ⓑ 돌보다, 보살피다"
+  },
+  {
+    "no": "425",
+    "en": "look upon ~as~",
+    "ko": "~을~으로 간주하다"
+  },
+  {
+    "no": "426",
+    "en": "lose one's temper",
+    "ko": "화를 내다"
+  },
+  {
+    "no": "427",
+    "en": "lose sight of",
+    "ko": "~을 잊다, 망각하다"
+  },
+  {
+    "no": "428",
+    "en": "lose track of",
+    "ko": "~을 놓치다"
+  },
+  {
+    "no": "429",
+    "en": "make a fortune",
+    "ko": "재산을 모으다"
+  },
+  {
+    "no": "430",
+    "en": "make a living",
+    "ko": "생계를 꾸리다"
+  },
+  {
+    "no": "431",
+    "en": "make a remark",
+    "ko": "발언을 하다"
+  },
+  {
+    "no": "432",
+    "en": "make believe",
+    "ko": "~인 체하다, 믿게 만들다"
+  },
+  {
+    "no": "433",
+    "en": "make do with",
+    "ko": "~으로 견디다, 임시변통하다"
+  },
+  {
+    "no": "434",
+    "en": "make good",
+    "ko": "성공하다"
+  },
+  {
+    "no": "435",
+    "en": "make it",
+    "ko": "해내다, 성공하다"
+  },
+  {
+    "no": "436",
+    "en": "make it a rule to ",
+    "ko": "~하기로 정하다"
+  },
+  {
+    "no": "437",
+    "en": "make it on time",
+    "ko": "제시간에 가다"
+  },
+  {
+    "no": "438",
+    "en": "make one's way",
+    "ko": "나아가다"
+  },
+  {
+    "no": "439",
+    "en": "make out",
+    "ko": "ⓐ 알아보다, 분간하다, ⓑ 증명하다"
+  },
+  {
+    "no": "440",
+    "en": "make progress",
+    "ko": "나아가다, 진전을 보이다"
+  },
+  {
+    "no": "441",
+    "en": "make sense",
+    "ko": "이해가 되다, 타당하다"
+  },
+  {
+    "no": "442",
+    "en": "make sure",
+    "ko": "반드시 ~하다"
+  },
+  {
+    "no": "443",
+    "en": "make the best of",
+    "ko": "~을 최대한 이용하다"
+  },
+  {
+    "no": "444",
+    "en": "make up one's mind",
+    "ko": "결심하다"
+  },
+  {
+    "no": "445",
+    "en": "make use of",
+    "ko": "~을 사용하다"
+  },
+  {
+    "no": "446",
+    "en": "manage to",
+    "ko": "간신히 ~하다"
+  },
+  {
+    "no": "447",
+    "en": "mark off",
+    "ko": "구별하다"
+  },
+  {
+    "no": "448",
+    "en": "meet the demand",
+    "ko": "수요를 충족시키다"
+  },
+  {
+    "no": "449",
+    "en": "meet the needs",
+    "ko": "요구를 충족시키다"
+  },
+  {
+    "no": "450",
+    "en": "melt away",
+    "ko": "차츰 사라지다"
+  },
+  {
+    "no": "451",
+    "en": "mingle with",
+    "ko": "~와 섞다, 어울리다"
+  },
+  {
+    "no": "452",
+    "en": "move on to",
+    "ko": "~으로 넘어가다"
+  },
+  {
+    "no": "453",
+    "en": "no doubt",
+    "ko": "분명 ~할 것이다, 틀림없는"
+  },
+  {
+    "no": "454",
+    "en": "no later than",
+    "ko": "늦어도 ~까지는"
+  },
+  {
+    "no": "455",
+    "en": "no sooner",
+    "ko": "~하자마자"
+  },
+  {
+    "no": "456",
+    "en": "no to mention",
+    "ko": "~은 말할 것도 없고"
+  },
+  {
+    "no": "457",
+    "en": "not all that",
+    "ko": "그다지"
+  },
+  {
+    "no": "458",
+    "en": "object to",
+    "ko": "~에 반대하다"
+  },
+  {
+    "no": "459",
+    "en": "off hand",
+    "ko": "준비 없이, 즉석에서"
+  },
+  {
+    "no": "460",
+    "en": "on a regular basis",
+    "ko": "정기적으로"
+  },
+  {
+    "no": "461",
+    "en": "on account of",
+    "ko": "~때문에"
+  },
+  {
+    "no": "462",
+    "en": "on behalf of",
+    "ko": "~을 대신하여, ~을 대표하여"
+  },
+  {
+    "no": "463",
+    "en": "on file",
+    "ko": "기록된"
+  },
+  {
+    "no": "464",
+    "en": "on one's own",
+    "ko": "혼자서, 자력으로"
+  },
+  {
+    "no": "465",
+    "en": "on the back of",
+    "ko": "~의 뒤를 이어, ~의 결과로"
+  },
+  {
+    "no": "466",
+    "en": "on the contrary",
+    "ko": "반대로"
+  },
+  {
+    "no": "467",
+    "en": "on the face of it",
+    "ko": "겉으로 보기에는"
+  },
+  {
+    "no": "468",
+    "en": "on the fast track",
+    "ko": "고속 승진하는"
+  },
+  {
+    "no": "469",
+    "en": "on the go",
+    "ko": "끊임없이 일하는"
+  },
+  {
+    "no": "470",
+    "en": "on the ground",
+    "ko": "현장에서"
+  },
+  {
+    "no": "471",
+    "en": "on the rise",
+    "ko": "상승 중인, 오름세인"
+  },
+  {
+    "no": "472",
+    "en": "on the strength of",
+    "ko": "~에 힘입어"
+  },
+  {
+    "no": "473",
+    "en": "on track",
+    "ko": "제대로 진행되고 있는"
+  },
+  {
+    "no": "474",
+    "en": "one's cup of tea",
+    "ko": "~의 기호에 맞는 것"
+  },
+  {
+    "no": "475",
+    "en": "only to ",
+    "ko": "결국~하다"
+  },
+  {
+    "no": "476",
+    "en": "opt for",
+    "ko": "~을 선택하다"
+  },
+  {
+    "no": "477",
+    "en": "originate from[in]",
+    "ko": "~에서 비롯되다, ~이 원인이다"
+  },
+  {
+    "no": "478",
+    "en": "out of control",
+    "ko": "통제불능의"
+  },
+  {
+    "no": "479",
+    "en": "out of curiosity",
+    "ko": "호기심에서 "
+  },
+  {
+    "no": "480",
+    "en": "out of fashion",
+    "ko": "구식의 유행에 뒤떨어진"
+  },
+  {
+    "no": "481",
+    "en": "out of one's wits",
+    "ko": "제정신을 잃고"
+  },
+  {
+    "no": "482",
+    "en": "out of order",
+    "ko": "고장 난"
+  },
+  {
+    "no": "483",
+    "en": "out of reach",
+    "ko": "힘이 미치지 않는 곳에"
+  },
+  {
+    "no": "484",
+    "en": "out of the question",
+    "ko": "불가능한, 가당치 않은"
+  },
+  {
+    "no": "485",
+    "en": "over the above",
+    "ko": "~에 덧붙여, ~위에"
+  },
+  {
+    "no": "486",
+    "en": "over the course of",
+    "ko": "~동안"
+  },
+  {
+    "no": "487",
+    "en": "parcel out",
+    "ko": "(여러 부분으로) ~을 나누다"
+  },
+  {
+    "no": "488",
+    "en": "pass a bill",
+    "ko": "법안을 통과시키다"
+  },
+  {
+    "no": "489",
+    "en": "pass away",
+    "ko": "사망하다"
+  },
+  {
+    "no": "490",
+    "en": "pass on",
+    "ko": "넘겨주다, 전달하다"
+  },
+  {
+    "no": "491",
+    "en": "pave the way",
+    "ko": "길을 마련하다, 상황을 조성하다"
+  },
+  {
+    "no": "492",
+    "en": "pay ~off",
+    "ko": "ⓐ ~을 지불하다, 청산하다, ⓑ 성공하다, 성과를 내다"
+  },
+  {
+    "no": "493",
+    "en": "pay attention to",
+    "ko": "~에 관심을 기울이다"
+  },
+  {
+    "no": "494",
+    "en": "pay back",
+    "ko": "~에게 (돈을) 갚다"
+  },
+  {
+    "no": "495",
+    "en": "pay dividends",
+    "ko": "큰 이익을 주다"
+  },
+  {
+    "no": "496",
+    "en": "pick on",
+    "ko": "~를 비난하다, 혹평하다"
+  },
+  {
+    "no": "497",
+    "en": "pick up on",
+    "ko": "~을 알아차리다"
+  },
+  {
+    "no": "498",
+    "en": "pin down",
+    "ko": "꼼짝 못 하게 하다"
+  },
+  {
+    "no": "499",
+    "en": "pin one's faith on",
+    "ko": "~을 굳게 믿다"
+  },
+  {
+    "no": "500",
+    "en": "place a strain on",
+    "ko": "~에 부담을 가하다"
+  },
+  {
+    "no": "501",
+    "en": "place an order",
+    "ko": "주문하다"
+  },
+  {
+    "no": "502",
+    "en": "play a role (in)",
+    "ko": "역할을 하다, 한몫을 하다"
+  },
+  {
+    "no": "503",
+    "en": "play havoc with",
+    "ko": "~을 아수라장으로 만들다"
+  },
+  {
+    "no": "504",
+    "en": "plow into",
+    "ko": "(일 등에) 달려들다"
+  },
+  {
+    "no": "505",
+    "en": "point out ",
+    "ko": "지적하다, 가리키다"
+  },
+  {
+    "no": "506",
+    "en": "portion out",
+    "ko": "분배하다, 나눠주다"
+  },
+  {
+    "no": "507",
+    "en": "preoccupied with",
+    "ko": "~에 집착하는, ~에 사로잡혀 있는"
+  },
+  {
+    "no": "508",
+    "en": "prior to",
+    "ko": "~에 앞서, 먼저"
+  },
+  {
+    "no": "509",
+    "en": "pros and cons",
+    "ko": "장단점"
+  },
+  {
+    "no": "510",
+    "en": "pursuant to",
+    "ko": "~에 따라"
+  },
+  {
+    "no": "511",
+    "en": "push aside",
+    "ko": "옆으로 밀쳐내다"
+  },
+  {
+    "no": "512",
+    "en": "put emphasis on",
+    "ko": "~을 강조하다"
+  },
+  {
+    "no": "513",
+    "en": "put forth",
+    "ko": "~을 발휘하다"
+  },
+  {
+    "no": "514",
+    "en": "put forward",
+    "ko": "제안하다, 제기하다"
+  },
+  {
+    "no": "515",
+    "en": "put on hold",
+    "ko": "~을 보류하다"
+  },
+  {
+    "no": "516",
+    "en": "put one's feet up",
+    "ko": "누워서 쉬다"
+  },
+  {
+    "no": "517",
+    "en": "put one's finger on",
+    "ko": "~을 확실히 지적하다"
+  },
+  {
+    "no": "518",
+    "en": "put out ",
+    "ko": "~를 내쫓다, 해고하다"
+  },
+  {
+    "no": "519",
+    "en": "put to use",
+    "ko": "~을 이용하다"
+  },
+  {
+    "no": "520",
+    "en": "put up money",
+    "ko": "(돈을) 마련하다, 치르다"
+  },
+  {
+    "no": "521",
+    "en": "put~in one's shoes",
+    "ko": "~의 입장에 처하게 하다"
+  },
+  {
+    "no": "522",
+    "en": "put~into action",
+    "ko": "~을 실행에 옮기다"
+  },
+  {
+    "no": "523",
+    "en": "rack one's brain",
+    "ko": "머리를 짜내서 생각하다"
+  },
+  {
+    "no": "524",
+    "en": "range from A to B",
+    "ko": "A에서 B까지 이르다"
+  },
+  {
+    "no": "525",
+    "en": "reason with",
+    "ko": "~를 설득하다"
+  },
+  {
+    "no": "526",
+    "en": "reflect on",
+    "ko": "깊이 생각하다"
+  },
+  {
+    "no": "527",
+    "en": "refrain from",
+    "ko": "~을 삼가다, 자제하다"
+  },
+  {
+    "no": "528",
+    "en": "rely on",
+    "ko": "의존하다"
+  },
+  {
+    "no": "529",
+    "en": "rest with",
+    "ko": "~의 책임이다 "
+  },
+  {
+    "no": "530",
+    "en": "rife with",
+    "ko": "~으로 가득 찬"
+  },
+  {
+    "no": "531",
+    "en": "rip across",
+    "ko": "둘로 자르다, 쪼개다"
+  },
+  {
+    "no": "532",
+    "en": "rise up",
+    "ko": "봉기하다, 일어서다"
+  },
+  {
+    "no": "533",
+    "en": "roll one's eyes at",
+    "ko": "곁눈질하다"
+  },
+  {
+    "no": "534",
+    "en": "root for",
+    "ko": "~를 응원하다"
+  },
+  {
+    "no": "535",
+    "en": "run for",
+    "ko": "~에 입후보하다"
+  },
+  {
+    "no": "536",
+    "en": "run into",
+    "ko": "~를 맞닥뜨리다"
+  },
+  {
+    "no": "537",
+    "en": "run short",
+    "ko": "부족하다, 떨어지다"
+  },
+  {
+    "no": "538",
+    "en": "rush into",
+    "ko": "급하게~하다"
+  },
+  {
+    "no": "539",
+    "en": "screw up",
+    "ko": "~을 망치다, 고정시키다"
+  },
+  {
+    "no": "540",
+    "en": "scrub away",
+    "ko": "없애다, 제거하다"
+  },
+  {
+    "no": "541",
+    "en": "set about",
+    "ko": "~에 착수하다"
+  },
+  {
+    "no": "542",
+    "en": "set aside",
+    "ko": "따로 떼어 두다"
+  },
+  {
+    "no": "543",
+    "en": "set out ",
+    "ko": "착수하다"
+  },
+  {
+    "no": "544",
+    "en": "settle down",
+    "ko": "ⓐ 정착하다, ⓑ 진정하다"
+  },
+  {
+    "no": "545",
+    "en": "settle into",
+    "ko": "자리 잡다"
+  },
+  {
+    "no": "546",
+    "en": "settle the matter",
+    "ko": "해결하다"
+  },
+  {
+    "no": "547",
+    "en": "shake up",
+    "ko": "~를 일깨우다"
+  },
+  {
+    "no": "548",
+    "en": "shed light on",
+    "ko": "~을 명백히 하다, 해명하다"
+  },
+  {
+    "no": "549",
+    "en": "shut down",
+    "ko": "ⓐ 멈추다, 정지하다, ⓑ 문을 닫다"
+  },
+  {
+    "no": "550",
+    "en": "shut off",
+    "ko": "차단하다"
+  },
+  {
+    "no": "551",
+    "en": "shy of",
+    "ko": "~이 모자란, 부족한"
+  },
+  {
+    "no": "552",
+    "en": "side with",
+    "ko": "~의 편에 서다"
+  },
+  {
+    "no": "553",
+    "en": "sit on",
+    "ko": "~을 쥐고 있다"
+  },
+  {
+    "no": "554",
+    "en": "slam into",
+    "ko": "~에 쾅 하고 충돌하다"
+  },
+  {
+    "no": "555",
+    "en": "slip away",
+    "ko": "사라지다, 죽다"
+  },
+  {
+    "no": "556",
+    "en": "slip off",
+    "ko": "벗겨지다"
+  },
+  {
+    "no": "557",
+    "en": "so far",
+    "ko": "지금까지, 현재까지"
+  },
+  {
+    "no": "558",
+    "en": "sort out",
+    "ko": "해결하다, 정리하다"
+  },
+  {
+    "no": "559",
+    "en": "speak for itself",
+    "ko": "자명하다, 분명하다"
+  },
+  {
+    "no": "560",
+    "en": "speak up",
+    "ko": "강력히 변호하다"
+  },
+  {
+    "no": "561",
+    "en": "specialize in",
+    "ko": "~을 전문으로 하다, 전공하다"
+  },
+  {
+    "no": "562",
+    "en": "spell out",
+    "ko": "자세히 설명하다, 판독하다"
+  },
+  {
+    "no": "563",
+    "en": "sprain one's ankle",
+    "ko": "발목을 삐다"
+  },
+  {
+    "no": "564",
+    "en": "spread out",
+    "ko": "퍼지다"
+  },
+  {
+    "no": "565",
+    "en": "sprout from",
+    "ko": "~에서 자라나다"
+  },
+  {
+    "no": "566",
+    "en": "stamp on",
+    "ko": "(무력·권위 등으로) 짓밟다"
+  },
+  {
+    "no": "567",
+    "en": "stand a chance",
+    "ko": "가능성이 있다"
+  },
+  {
+    "no": "568",
+    "en": "stand aside",
+    "ko": "물러나다"
+  },
+  {
+    "no": "569",
+    "en": "stand for ",
+    "ko": "~을 대표하다"
+  },
+  {
+    "no": "570",
+    "en": "stand on one's own feet",
+    "ko": "자립하다"
+  },
+  {
+    "no": "571",
+    "en": "stand out",
+    "ko": "눈에 띄다, 두드러지다"
+  },
+  {
+    "no": "572",
+    "en": "stand up for",
+    "ko": "두둔하다, 옹호하다"
+  },
+  {
+    "no": "573",
+    "en": "stand up to",
+    "ko": "~에 맞서다"
+  },
+  {
+    "no": "574",
+    "en": "stay away from",
+    "ko": "~을 끊다, 가까이하지 않다"
+  },
+  {
+    "no": "575",
+    "en": "stay in shape",
+    "ko": "건강을 유지하다"
+  },
+  {
+    "no": "576",
+    "en": "stem from",
+    "ko": "~에서 생겨나다"
+  },
+  {
+    "no": "577",
+    "en": "step down",
+    "ko": "(지위에서) 물러나다"
+  },
+  {
+    "no": "578",
+    "en": "step into one's shoes",
+    "ko": "~의 후임이 되다 "
+  },
+  {
+    "no": "579",
+    "en": "stick one's nose in",
+    "ko": "~에 참견하다, 간섭하다"
+  },
+  {
+    "no": "580",
+    "en": "stick to ",
+    "ko": "~을 계속하다"
+  },
+  {
+    "no": "581",
+    "en": "stick up for",
+    "ko": "~를 변호하다, ~을 방어하다"
+  },
+  {
+    "no": "582",
+    "en": "strike a balance",
+    "ko": "청산하다"
+  },
+  {
+    "no": "583",
+    "en": "strip away",
+    "ko": "벗겨내다"
+  },
+  {
+    "no": "584",
+    "en": "strip of",
+    "ko": "~을 빼앗다"
+  },
+  {
+    "no": "585",
+    "en": "strive for",
+    "ko": "~을 얻으려고 노력하다"
+  },
+  {
+    "no": "586",
+    "en": "suffer from",
+    "ko": "~으로 고통받다"
+  },
+  {
+    "no": "587",
+    "en": "supply chain",
+    "ko": "공급망"
+  },
+  {
+    "no": "588",
+    "en": "supportive of",
+    "ko": "~을 지원하는"
+  },
+  {
+    "no": "589",
+    "en": "take a nap",
+    "ko": "낮잠을 자다"
+  },
+  {
+    "no": "590",
+    "en": "take advantage of",
+    "ko": "~을 이용하다"
+  },
+  {
+    "no": "591",
+    "en": "take apart",
+    "ko": "~을 분해하다"
+  },
+  {
+    "no": "592",
+    "en": "take by surprise",
+    "ko": "~를 깜짝 놀라게 하다"
+  },
+  {
+    "no": "593",
+    "en": "take charge of ",
+    "ko": "맡다, ~의 책임을 지다"
+  },
+  {
+    "no": "594",
+    "en": "take effect",
+    "ko": "발효되다, 시행되다"
+  },
+  {
+    "no": "595",
+    "en": "take in",
+    "ko": "ⓐ 흡수하다, 섭취하다, ⓑ 속이다"
+  },
+  {
+    "no": "596",
+    "en": "take measure",
+    "ko": "조치를 취하다"
+  },
+  {
+    "no": "597",
+    "en": "take notice of",
+    "ko": "~을 알아차리다, 신경쓰다"
+  },
+  {
+    "no": "598",
+    "en": "take off",
+    "ko": "ⓐ 이륙하다, ⓑ (옷 등을) 벗다"
+  },
+  {
+    "no": "599",
+    "en": "take one's toll",
+    "ko": "피해를 주다, 타격을 주다"
+  },
+  {
+    "no": "600",
+    "en": "take precedence",
+    "ko": "우선권을 얻다"
+  },
+  {
+    "no": "601",
+    "en": "take pride in",
+    "ko": "~을 자랑하다"
+  },
+  {
+    "no": "602",
+    "en": "take the crown",
+    "ko": "왕위에 오르다"
+  },
+  {
+    "no": "603",
+    "en": "take the lead",
+    "ko": "지도적 위치를 차지하다"
+  },
+  {
+    "no": "604",
+    "en": "take~into account",
+    "ko": "~을 고려하다"
+  },
+  {
+    "no": "605",
+    "en": "tear away from",
+    "ko": "~에서 무리하게 떼어 놓다"
+  },
+  {
+    "no": "606",
+    "en": "tear~down",
+    "ko": "해체하다, 헐다"
+  },
+  {
+    "no": "607",
+    "en": "teem with",
+    "ko": "~으로 풍부하다"
+  },
+  {
+    "no": "608",
+    "en": "tell from",
+    "ko": "~을 구분하다, ~으로 알다"
+  },
+  {
+    "no": "609",
+    "en": "tend to",
+    "ko": "~하는 경향이 있다"
+  },
+  {
+    "no": "610",
+    "en": "tender age",
+    "ko": "(경험이 없는) 어린 나이"
+  },
+  {
+    "no": "611",
+    "en": "that said",
+    "ko": "그렇긴 하지만"
+  },
+  {
+    "no": "612",
+    "en": "think back to",
+    "ko": "~을 회상하다"
+  },
+  {
+    "no": "613",
+    "en": "think of A as B",
+    "ko": "A를 B로 생각하다"
+  },
+  {
+    "no": "614",
+    "en": "through thick and thin",
+    "ko": "좋을 떄나 안 좋을 때나"
+  },
+  {
+    "no": "615",
+    "en": "throw away",
+    "ko": "버리다"
+  },
+  {
+    "no": "616",
+    "en": "throw in",
+    "ko": "~을 덤으로 주다"
+  },
+  {
+    "no": "617",
+    "en": "throw off",
+    "ko": "떨쳐 버리다"
+  },
+  {
+    "no": "618",
+    "en": "thumb through",
+    "ko": "~을 급히 훑어보다"
+  },
+  {
+    "no": "619",
+    "en": "tipping point",
+    "ko": "정점"
+  },
+  {
+    "no": "620",
+    "en": "to date",
+    "ko": "지금까지, 현재까지"
+  },
+  {
+    "no": "621",
+    "en": "to good purpose",
+    "ko": "아주 효과적으로"
+  },
+  {
+    "no": "622",
+    "en": "to some extent",
+    "ko": "어느 정도까지, 얼마간"
+  },
+  {
+    "no": "623",
+    "en": "to the detriment of",
+    "ko": "~을 해치며"
+  },
+  {
+    "no": "624",
+    "en": "to the effect",
+    "ko": "~이라는 의미의"
+  },
+  {
+    "no": "625",
+    "en": "trace out",
+    "ko": "(윤곽을) 그리다"
+  },
+  {
+    "no": "626",
+    "en": "trip over",
+    "ko": "~에 발이 걸려 넘어지다"
+  },
+  {
+    "no": "627",
+    "en": "try out",
+    "ko": "시험 삼아 사용해 보다"
+  },
+  {
+    "no": "628",
+    "en": "tune in",
+    "ko": "맞춰 듣다, 귀 기울이다"
+  },
+  {
+    "no": "629",
+    "en": "turn a blind eye to",
+    "ko": "~을 못 본 체하다"
+  },
+  {
+    "no": "630",
+    "en": "turn away from",
+    "ko": "~에게서 등을 돌리다"
+  },
+  {
+    "no": "631",
+    "en": "turn back",
+    "ko": "되돌아오다, 되돌리다"
+  },
+  {
+    "no": "632",
+    "en": "turn in",
+    "ko": "ⓐ 제출하다, ⓑ 반환하다"
+  },
+  {
+    "no": "633",
+    "en": "turn over(to)",
+    "ko": "~에게 넘기다, 맡기다"
+  },
+  {
+    "no": "634",
+    "en": "turn up",
+    "ko": "나타나다"
+  },
+  {
+    "no": "635",
+    "en": "under condition",
+    "ko": "~한 조건하에"
+  },
+  {
+    "no": "636",
+    "en": "under no circumstances",
+    "ko": "어떠한 경우에도 "
+  },
+  {
+    "no": "637",
+    "en": "under one's nose",
+    "ko": "코앞에서"
+  },
+  {
+    "no": "638",
+    "en": "ups and downs",
+    "ko": "기복, 성쇠"
+  },
+  {
+    "no": "639",
+    "en": "vice versa",
+    "ko": "거꾸로, 반대로"
+  },
+  {
+    "no": "640",
+    "en": "walk out",
+    "ko": "작업을 중단하다"
+  },
+  {
+    "no": "641",
+    "en": "ward off",
+    "ko": "~을 피하다"
+  },
+  {
+    "no": "642",
+    "en": "wear out",
+    "ko": "마모되다, (낡아서) 떨어지다"
+  },
+  {
+    "no": "643",
+    "en": "weigh on",
+    "ko": "압박하다, 괴롭히다"
+  },
+  {
+    "no": "644",
+    "en": "wet behind the ears",
+    "ko": "미숙한, 풋내기인"
+  },
+  {
+    "no": "645",
+    "en": "when it comes to",
+    "ko": "~에 관한 한"
+  },
+  {
+    "no": "646",
+    "en": "win hands down",
+    "ko": "쉽게 이기다"
+  },
+  {
+    "no": "647",
+    "en": "wipe out",
+    "ko": "ⓐ ~을 완전히 없애 버리다, 파괴하다, ~를 녹초로 만들다, 기진맥진하게 만드랃"
+  },
+  {
+    "no": "648",
+    "en": "with ease",
+    "ko": "쉽게"
+  },
+  {
+    "no": "649",
+    "en": "with interest",
+    "ko": "이자를 붙여서"
+  },
+  {
+    "no": "650",
+    "en": "with open arms",
+    "ko": "쌍수를 들고, 대환영하여"
+  },
+  {
+    "no": "651",
+    "en": "work on",
+    "ko": "~에 공을 들이다, 애쓰다"
+  },
+  {
+    "no": "652",
+    "en": "work out ",
+    "ko": "ⓐ (일이) 잘 풀리다, 해결하다, ⓑ 운동하다"
+  },
+  {
+    "no": "653",
+    "en": "work up",
+    "ko": "~을 불러일으키다, 복돋우다"
+  },
+  {
+    "no": "654",
+    "en": "wrap oneself in",
+    "ko": "~을 몸에 걸치다"
+  },
+  {
+    "no": "655",
+    "en": "wrap up",
+    "ko": "(합의·회의 등을) 마무리 짓다"
+  },
+  {
+    "no": "656",
+    "en": "wrestle with",
+    "ko": "~와 씨름하다"
+  },
+  {
+    "no": "657",
+    "en": "yearn for",
+    "ko": "~을 갈망하다, 동경하다"
+  }
+]
