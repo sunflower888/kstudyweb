@@ -6,9 +6,13 @@ let navNum = 0;
 let showKo = false;
 
 const dataMap = {
-  1: "./file/words_basic.json",
-  2: "./file/owords_1.json",
-  3: "./file/owords_2.json",
+  11: "./file/words_basic.json",
+  12: "./file/owords_1.json",
+  13: "./file/owords_2.json",
+  14: "./file/xwords_1.json",
+  15: "./file/xwords_2.json",
+  16: "./file/xwords_3.json",
+  17: "./file/xwords_4.json",
 };
 
 // 데이터 캐싱 ---------------------------------------------------------
@@ -133,8 +137,9 @@ goBtn.addEventListener("click", () => {
 
 // ================== ⭐ 초기 데이터 1번만 로드 ==================
 (async function init() {
-  currentData = await getData(1); // 기본 데이터
+  currentData = await getData(11); // 기본 데이터
   render();
 })();
+
 
 
