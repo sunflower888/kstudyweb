@@ -143,6 +143,15 @@ div {
   justify-content: center;
   border: 2px solid var(--count-font);
 }
+.nav-total {
+  position: absolute;
+  right: 130px;
+  bottom: 115px;
+
+  color: var(--nav-font);
+  font-size: 12px;
+  font-weight: 600;
+}
 
 /* 검색 */
 
