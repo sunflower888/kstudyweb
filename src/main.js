@@ -88,6 +88,7 @@ loadBtn.addEventListener("click", async () => {
 
   currentData = data;
   navNum = 0;
+  counter.setTotal(currentData.length); // ⭐ 추가
   counter.setPage(0); // 네비게이션 숫자도 0으로 초기화
   render();
 });
@@ -138,8 +139,6 @@ goBtn.addEventListener("click", () => {
 // ================== ⭐ 초기 데이터 1번만 로드 ==================
 (async function init() {
   currentData = await getData(11); // 기본 데이터
+  counter.setTotal(currentData.length); // ⭐ 추가
   render();
 })();
-
-
-
