@@ -53,11 +53,14 @@ export function updateMain(rows, data, showKo) {
 // 네비게이션
 export function navContent(onchange) {
   let num = 0;
+  let total = 0; // ⭐ 전체 페이지 수
 
   const container = document.createElement("div");
   container.className = "nav-container";
   const current = document.createElement("div");
   current.className = "nav-current";
+  const totalEl = document.createElement("div"); // ⭐ 전체 페이지 표시
+  totalEl.className = "nav-total";
   const prevBtn = document.createElement("div");
   prevBtn.className = "nav-prevBtn";
   const nextBtn = document.createElement("div");
@@ -69,6 +72,7 @@ export function navContent(onchange) {
 
   function update() {
     current.textContent = num;
+    totalEl.textContent = total; // ⭐ 이 줄 필요
     onchange?.(num); // onchange 있으면 실행, 없으면 하지마라 // if(onchange){onchange(num);}랑 거의 동일
   }
 
@@ -79,16 +83,24 @@ export function navContent(onchange) {
     }
   });
   nextBtn.addEventListener("click", () => {
-    num++;
-    update();
+    if (num < total - 1) {
+      // ⭐ 마지막 페이지 제한
+      num++;
+      update();
+    }
   });
 
-  container.append(prevBtn, current, nextBtn);
+  container.append(prevBtn, current, totalEl, nextBtn);
 
   return {
     element: container,
     setPage: (newNum) => {
       num = newNum;
+      update();
+    },
+    setTotal: (dataLength) => {
+      // ⭐ 외부에서 전체 개수 설정
+      total = Math.ceil(dataLength / 10);
       update();
     },
   };
