@@ -45,6 +45,24 @@ document.body.appendChild(check);
 
 check.addEventListener("change", () => {
   showKo = check.checked;
+
+  // 두 체크박스 상태 맞추기
+  check2.checked = showKo;
+  render();
+});
+
+const check2 = document.createElement("input");
+check2.className = "check2";
+check2.type = "checkbox";
+check2.checked = false;
+document.body.appendChild(check2);
+
+check2.addEventListener("change", () => {
+  showKo = check2.checked;
+
+  // 두 체크박스 상태 맞추기
+  check.checked = showKo;
+
   render();
 });
 
@@ -113,6 +131,7 @@ const counter = navContent((num) => {
 
 document.body.appendChild(counter.element);
 
+document.body.append(counter.prevBtn2, counter.nextBtn2);
 // ------------------ 네비게이션 직접 이동 ------------------
 const navInput = document.createElement("input");
 navInput.type = "number";
