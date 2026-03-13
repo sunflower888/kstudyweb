@@ -68,6 +68,8 @@ div {
 
 .nav-prevBtn,
 .nav-nextBtn,
+.nav-prevBtn2,
+.nav-nextBtn2,
 .nav-current {
   background-color: var(--nav-color);
   position: absolute;
@@ -120,6 +122,21 @@ div {
   background-color: var(--check-color);
 } */
 
+.check2 {
+  appearance: none;
+
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 40px;
+  bottom: 170px;
+  background-color: var(--check-color);
+  border-radius: 5px;
+  border: solid 2px var(--check-color);
+
+  cursor: pointer;
+}
+
 .nav-nextBtn {
   right: 40px;
   bottom: 150px;
@@ -128,6 +145,16 @@ div {
 .nav-prevBtn {
   right: 40px;
   bottom: 210px;
+}
+
+.nav-nextBtn2 {
+  left: 120px;
+  bottom: 170px;
+}
+
+.nav-prevBtn2 {
+  left: 170px;
+  bottom: 170px;
 }
 
 .nav-current {
