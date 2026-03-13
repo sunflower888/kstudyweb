@@ -64,11 +64,21 @@ export function navContent(onchange) {
   const prevBtn = document.createElement("div");
   prevBtn.className = "nav-prevBtn";
   const nextBtn = document.createElement("div");
+
   nextBtn.className = "nav-nextBtn";
+  // ⭐ 추가 버튼
+  const prevBtn2 = document.createElement("div");
+  prevBtn2.className = "nav-prevBtn2";
+
+  const nextBtn2 = document.createElement("div");
+  nextBtn2.className = "nav-nextBtn2";
 
   current.textContent = num;
   prevBtn.textContent = "◀";
   nextBtn.textContent = "▶";
+
+  prevBtn2.textContent = "◀";
+  nextBtn2.textContent = "▶";
 
   function update() {
     current.textContent = num;
@@ -76,24 +86,34 @@ export function navContent(onchange) {
     onchange?.(num); // onchange 있으면 실행, 없으면 하지마라 // if(onchange){onchange(num);}랑 거의 동일
   }
 
-  prevBtn.addEventListener("click", () => {
+  function prev() {
     if (num > 0) {
       num--;
       update();
     }
-  });
-  nextBtn.addEventListener("click", () => {
+  }
+
+  function next() {
     if (num < total - 1) {
-      // ⭐ 마지막 페이지 제한
       num++;
       update();
     }
-  });
+  }
 
-  container.append(prevBtn, current, totalEl, nextBtn);
+  // 기존 버튼
+  prevBtn.addEventListener("click", prev);
+  nextBtn.addEventListener("click", next);
+
+  // 추가 버튼
+  prevBtn2.addEventListener("click", prev);
+  nextBtn2.addEventListener("click", next);
+
+  container.append(prevBtn, current, totalEl, nextBtn); // ⭐ 외부에서 전체 개수 설정
 
   return {
     element: container,
+    prevBtn2,
+    nextBtn2,
     setPage: (newNum) => {
       num = newNum;
       update();
